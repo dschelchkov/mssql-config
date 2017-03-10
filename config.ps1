@@ -1,0 +1,1 @@
+Get-Date | Out-File C:\tmp\test-config.log -Append
